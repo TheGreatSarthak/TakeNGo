@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646947463384",
+    "project_id": "takengo-d555d",
+    "storage_bucket": "takengo-d555d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646947463384:android:f3f14407e9222cededf7ad",
+        "android_client_info": {
+          "package_name": "com.example.take_n_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646947463384-4k75qh0ttot31oo6cnuu1gdb2j9b13da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.take_n_go",
+            "certificate_hash": "662855785013a0903e75dd92685bb2b375214faf"
+          }
+        },
+        {
+          "client_id": "646947463384-0453bmmd0e707v67hkts3us7tdgf4dr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_S79cwfsOY_qUGJno529LqhlC3dFsC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646947463384-0453bmmd0e707v67hkts3us7tdgf4dr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
